@@ -1,0 +1,9 @@
+.homebanner {
+    background-image: url('../../assets/Resources/fc1f79e18cdc1a12320b9b10ec3e253d.jpeg'), linear-gradient(to top, rgba(255, 255, 255, 0.95), rgba(255, 255, 255, 0.95));
+    height: 600px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-blend-mode: overlay;
+    object-fit: cover;
+}

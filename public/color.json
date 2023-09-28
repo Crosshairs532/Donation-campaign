@@ -1,0 +1,17 @@
+[
+    {
+        "text_color": "#FF444A",
+        "background_color": "#ff444a26",
+        "text_bg": "#ff444a33"
+    },
+    {
+        "text_color": "#0052FF",
+        "background_color": "#0052ff26",
+        "text_bg": "#0052ff33"
+    },
+    {
+        "text_color": "#79C23F",
+        "background_color": "#79c23f26",
+        "text_bg": "#79c23f33"
+    }
+]

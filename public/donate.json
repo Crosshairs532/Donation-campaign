@@ -1,0 +1,158 @@
+[
+    {
+        "image": "https://i.ibb.co/tQKP3xm/Health.png",
+        "necessity": "Health",
+        "title": "Clean Water for Children",
+        "donation_amount": 290,
+        "description": "Help provide clean and safe drinking water to children in underserved communities. Your donation can make a significant difference in their lives.",
+        "button": "View Details",
+        "color": {
+            "text_color": "#0052FF",
+            "background_color": "#0052ff26",
+            "text_bg": "#0052ff33"
+        }
+    },
+    {
+        "image": " https://i.ibb.co/BNQ9s1L/Education.png",
+        "necessity": "Education",
+        "title": "Good Education",
+        "donation_amount": 290,
+        "description": "Support quality education initiatives for underprivileged children. Your contribution will help them access better educational opportunities.",
+        "button": "View Details",
+        "color": {
+            "text_color": "#FF444A",
+            "background_color": "#ff444a26",
+            "text_bg": "#ff444a33"
+        }
+    },
+    {
+        "image": "https://i.ibb.co/8Yq7g0Z/Clothing.png",
+        "necessity": "Clothing",
+        "title": "Used Clothing Drive",
+        "donation_amount": 290,
+        "description": "Donate gently used clothing to those in need. Your contributions will keep people warm and provide them with essential clothing items.",
+        "button": "View Details",
+        "color": {
+            "text_color": "#79C23F",
+            "background_color": "#79c23f26",
+            "text_bg": "#79c23f33"
+        }
+    },
+    {
+        "image": "https://i.ibb.co/fFYhtxF/Food.png",
+        "necessity": "Food",
+        "title": "Better Food for Everyone",
+        "donation_amount": 290,
+        "description": "Help combat hunger by supporting food programs for disadvantaged individuals and families. Your donation can provide nutritious meals to those in need.",
+        "button": "View Details",
+        "color": {
+            "text_color": "#F87147",
+            "background_color": "#f8714726",
+            "text_bg": "#f8714733 "
+        }
+    },
+    {
+        "image": "https://i.ibb.co/tQKP3xm/Health.png",
+        "necessity": "Health",
+        "title": "Clean Water for Children",
+        "donation_amount": 290,
+        "description": "Help provide clean and safe drinking water to children in underserved communities. Your donation can make a significant difference in their lives.",
+        "button": "View Details",
+        "color": {
+            "text_color": "#0052FF",
+            "background_color": "#0052ff26",
+            "text_bg": "#0052ff33"
+        }
+    },
+    {
+        "image": " https://i.ibb.co/BNQ9s1L/Education.png",
+        "necessity": "Education",
+        "title": "Good Education",
+        "donation_amount": 290,
+        "description": "Support quality education initiatives for underprivileged children. Your contribution will help them access better educational opportunities.",
+        "button": "View Details",
+        "color": {
+            "text_color": "#FF444A",
+            "background_color": "#ff444a26",
+            "text_bg": "#ff444a33"
+        }
+    },
+    {
+        "image": "https://i.ibb.co/8Yq7g0Z/Clothing.png",
+        "necessity": "Clothing",
+        "title": "Used Clothing Drive",
+        "donation_amount": 290,
+        "description": "Donate gently used clothing to those in need. Your contributions will keep people warm and provide them with essential clothing items.",
+        "button": "View Details",
+        "color": {
+            "text_color": "#79C23F",
+            "background_color": "#79c23f26",
+            "text_bg": "#79c23f33"
+        }
+    },
+    {
+        "image": "https://i.ibb.co/fFYhtxF/Food.png",
+        "necessity": "Food",
+        "title": "Better Food for Everyone",
+        "donation_amount": 290,
+        "description": "Help combat hunger by supporting food programs for disadvantaged individuals and families. Your donation can provide nutritious meals to those in need.",
+        "button": "View Details",
+        "color": {
+            "text_color": "#F87147",
+            "background_color": "#f8714726",
+            "text_bg": "#f8714733 "
+        }
+    },
+    {
+        "image": "https://i.ibb.co/tQKP3xm/Health.png",
+        "necessity": "Health",
+        "title": "Clean Water for Children",
+        "donation_amount": 290,
+        "description": "Help provide clean and safe drinking water to children in underserved communities. Your donation can make a significant difference in their lives.",
+        "button": "View Details",
+        "color": {
+            "text_color": "#0052FF",
+            "background_color": "#0052ff26",
+            "text_bg": "#0052ff33"
+        }
+    },
+    {
+        "image": " https://i.ibb.co/BNQ9s1L/Education.png",
+        "necessity": "Education",
+        "title": "Good Education",
+        "donation_amount": 290,
+        "description": "Support quality education initiatives for underprivileged children. Your contribution will help them access better educational opportunities.",
+        "button": "View Details",
+        "color": {
+            "text_color": "#FF444A",
+            "background_color": "#ff444a26",
+            "text_bg": "#ff444a33"
+        }
+    },
+    {
+        "image": "https://i.ibb.co/8Yq7g0Z/Clothing.png",
+        "necessity": "Clothing",
+        "title": "Used Clothing Drive",
+        "donation_amount": 290,
+        "description": "Donate gently used clothing to those in need. Your contributions will keep people warm and provide them with essential clothing items.",
+        "button": "View Details",
+        "color": {
+            "text_color": "#79C23F",
+            "background_color": "#79c23f26",
+            "text_bg": "#79c23f33"
+        }
+    },
+    {
+        "image": "https://i.ibb.co/fFYhtxF/Food.png",
+        "necessity": "Food",
+        "title": "Better Food for Everyone",
+        "donation_amount": 290,
+        "description": "Help combat hunger by supporting food programs for disadvantaged individuals and families. Your donation can provide nutritious meals to those in need.",
+        "button": "View Details",
+        "color": {
+            "text_color": "#F87147",
+            "background_color": "#f8714726",
+            "text_bg": "#f8714733 "
+        }
+    }
+]
